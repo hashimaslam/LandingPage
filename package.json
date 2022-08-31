@@ -20,7 +20,7 @@
     "react-chartjs-2": "^2.9.0",
     "react-dom": "^16.13.1",
     "react-flickity-component": "^3.5.0",
-    "react-live-clock": "^4.0.5",
+    "react-live-clock": "^6.0.6",
     "react-payment-card-component": "^0.2.1",
     "react-responsive": "^8.0.3",
     "react-router-dom": "^5.1.2",
